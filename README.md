@@ -2,6 +2,7 @@ Continuous Integration Demo
 ============================
 
 ![build](https://github.com/Hamiz5401/demo-pyci/actions/workflows/python-app.yml/badge.svg)
+[![codecov](https://codecov.io/github/Hamiz5401/demo-pyci/branch/main/graph/badge.svg?token=EBWXKMEXCQ)](https://codecov.io/github/Hamiz5401/demo-pyci)
 
 
 This project demonstrates use of Github Actions to build and test a Python project.  
